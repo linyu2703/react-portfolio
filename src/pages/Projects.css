@@ -1,0 +1,38 @@
+.projects {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.projects-containers {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 8px;
+    row-gap: 8px;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+
+.projects-containers .projects-item {
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 40px;
+    border: 1px solid black;
+}
+
+.projects-item h1 {
+    color:#fff;
+    margin-top: auto;
+}
+
+.projects-item img {
+    object-fit: cover;
+    width: 200px;
+    max-height: auto;
+    border-radius: 10px;
+}
+
+.projects-item li {
+    margin-top: 10px;
+    color: #d999a3;
+}

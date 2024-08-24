@@ -1,0 +1,23 @@
+.home {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.home ul {
+    list-style: none;
+    margin-top: -20px;
+}
+
+.home .home-icon1 {
+    margin-left: 0.5%;
+    color: lightblue;
+}
+
+.home .home-icon2 {
+    margin-left: 0.25%;
+    color: lightblue;
+}
+
+.home .home-icon3 {
+    margin-left: 0.35%;
+    color: lightblue;
+}

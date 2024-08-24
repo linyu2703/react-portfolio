@@ -1,0 +1,33 @@
+.contact {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    align-items: center;
+}
+
+.contact-container{
+    background-color: lightblue;
+    border-radius: 15px;
+    width:40%;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.contact-info h1 {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+.contact-info li {
+    margin: 10px auto;
+    list-style: none;
+}
+
+.contact-info li a {
+    color: #4169e1;
+}
+
+.contact-info .contact-icon {
+    margin-right: 2%;
+    color: #d999a3;
+}
